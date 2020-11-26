@@ -1,0 +1,23 @@
+.felipe-div-section{
+    padding: 40px;
+}
+.felipe-titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.felipe-div-cards{
+    background-color: white;
+    border-radius: 9px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+
+}
+.felipe-img-principal{
+    width: 90px;
+}
+.felipe-img-secundaria{
+    width: 200px;
+}
